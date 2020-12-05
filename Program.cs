@@ -8,6 +8,7 @@ namespace VendingMachine
         {
             Console.WriteLine("Hello World!");
             // some comment here
+            // another comment
         }
     }
 }
