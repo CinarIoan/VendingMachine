@@ -1,0 +1,16 @@
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/VendingMachine
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/VendingMachine.deps.json
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/VendingMachine.runtimeconfig.json
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/VendingMachine.runtimeconfig.dev.json
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/VendingMachine.dll
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/ref/VendingMachine.dll
+/home/cinar/Desktop/C#Projects/VendingMachine/bin/Debug/net5.0/VendingMachine.pdb
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.csprojAssemblyReference.cache
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.AssemblyInfoInputs.cache
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.AssemblyInfo.cs
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.csproj.CoreCompileInputs.cache
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.dll
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/ref/VendingMachine.dll
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.pdb
+/home/cinar/Desktop/C#Projects/VendingMachine/obj/Debug/net5.0/VendingMachine.genruntimeconfig.cache
